@@ -42,19 +42,67 @@
       "id": 7,
       "category": "truyện cổ tích",
       "title": "Tấm Cám",
-      "stream_url": "https://anchor.fm/s/3b2989d0/podcast/play/28342302/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2021-2-8%2F162642850-44100-2-ea4e643ae2c23.mp3"
+      "stream_url": "https://d3ctxlq1ktw2nl.cloudfront.net/production/2021-2-8/162642850-44100-2-ea4e643ae2c23.mp3"
     },
     {
       "id": 8,
       "category": "truyện cười",
       "title": "Ba cái đĩa",
-      "stream_url": "https://anchor.fm/s/104aae88/podcast/play/91805449/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-17%2F386499180-44100-2-41c705780cfeb.mp3"
+      "stream_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2024-8-17/386499180-44100-2-41c705780cfeb.mp3"
     },
     {
       "id": 9,
       "category": "truyện cười",
       "title": "Vụ trộm kim cương",
-      "stream_url": "https://anchor.fm/s/104aae88/podcast/play/92509925/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-2%2F387443031-44100-2-441c769c6bd9.mp3"
+      "stream_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2024-9-2/387443031-44100-2-441c769c6bd9.mp3"
+    },
+    {
+      "id": 10,
+      "category": "Blog radio",
+      "title": "Ngày của mẹ",
+      "stream_url": "https://dn710608.ca.archive.org/0/items/BlogRadioS18/blog%20radio%20s%E1%BB%91%2018.mp3"
+    },
+    {
+      "id": 11,
+      "category": "Blog radio",
+      "title": "Tình đầu khó quên",
+      "stream_url": "https://dn710702.ca.archive.org/0/items/BlogRadioS17/blog%20radio%20s%E1%BB%91%2017.mp3"
+    },
+    {
+      "id": 12,
+      "category": "Blog radio",
+      "title": "Tình yêu không lời",
+      "stream_url": "https://dn710708.ca.archive.org/0/items/BlogRadioS16/blog%20radio%20s%E1%BB%91%2016.mp3"
+    },
+    {
+      "id": 13,
+      "category": "Blog radio",
+      "title": "Mùa hoa ải hương",
+      "stream_url": "https://ia601904.us.archive.org/32/items/BlogRadioS15_201704/blog%20radio%20s15.mp3"
+    },
+    {
+      "id": 14,
+      "category": "Blog radio",
+      "title": "Nỗi lo cuộc sống",
+      "stream_url": "https://dn710608.ca.archive.org/0/items/BlogRadio14/blog%20radio%2014.mp3"
+    },
+    {
+      "id": 15,
+      "category": "Blog radio",
+      "title": "Thích hay là yêu",
+      "stream_url": "https://ia600802.us.archive.org/20/items/ThchVVYUMixdown/th%c3%adch%20v%c3%a0%20y%c3%aau_mixdown.mp3"
+    },
+    {
+      "id": 16,
+      "category": "Blog radio",
+      "title": "Mưa buồn",
+      "stream_url": "https://ia800504.us.archive.org/30/items/viet-cho-mot-ngay-mua-buon---/viet-cho-mot-ngay-mua-buon---.mp3"
+    },
+    {
+      "id": 17,
+      "category": "Blog radio",
+      "title": "Thiếu anh em thiếu đi một nửa",
+      "stream_url": "https://ia800501.us.archive.org/33/items/ThieuAnh1Mixdown/thi%e1%ba%bfu%20anh1_mixdown.mp3"
     }
   ]
 }
